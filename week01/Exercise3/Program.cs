@@ -18,7 +18,7 @@ class Program
             guesses = 0;
 
             Console.WriteLine("what's the magic number? ");
-            magicNumber = randomGenerator.Next(1, 10);
+            magicNumber = randomGenerator.Next(1, 101);
             // magicNumber = Convert.ToInt32(Console.ReadLine());//core 2
 
 
