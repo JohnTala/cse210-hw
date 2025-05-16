@@ -1,25 +1,4 @@
-// public class Entry
-// {
-//     // public string _date;
-//     // public string _promptText;
-//     // public string _entryText;
 
-//     // public void Display()
-//     // {
-
-//     //     Console.WriteLine($"Date:{_date} -Prompt:{_promptText} ");
-//     //     _entryText = Console.ReadLine();
-
-//     // }
-    
-//     public DateTime Date { get; set; }
-//     public string Content { get; set; }
-
-//     public override string ToString()
-//     {
-//         return $"{Date:G}\n{Content}\n";
-//     }
-// }
 
 public class Entry
     {

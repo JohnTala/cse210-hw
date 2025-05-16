@@ -5,7 +5,7 @@ using System.IO;
 public class Journal
 
 {
-    // public List<Entry> _entries;
+    
     private List<Entry> entries = new List<Entry>();
     private PromptGenerator promptGenerator = new PromptGenerator();
 
